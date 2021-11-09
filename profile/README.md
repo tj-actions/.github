@@ -11,5 +11,4 @@ or via our support email: support@tj-actions.online
 
 Here are some useful links to get you started:
 
-* [Contribution guidelines](../contributionguidlines)
-* [Code of Conduct](../codeofconduct)
+* [Code of Conduct](../CODEOFCONDUCT.md)
