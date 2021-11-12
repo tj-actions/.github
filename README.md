@@ -1,2 +1,2 @@
 # .github
-Tj Actions
+tj-actions
