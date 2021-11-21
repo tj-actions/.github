@@ -2,7 +2,7 @@
 
 Welcome to **Tj actions**, where we provide an easy to use set of github-actions.
 
-Our mission is simple, we fill the gap by providing missing features that improve your CI/CD process.
+Our mission is to fill the gap by providing missing features that improve your CI/CD process.
 
 Having trouble getting things hooked up? 
 
