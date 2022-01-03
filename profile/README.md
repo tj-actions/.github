@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to **Tj actions**, where we provide an easy to use set of github-actions.
+Welcome to **tj-actions**, where we provide an easy to use set of github-actions.
 
 Our mission is to fill the gap by providing missing features that improve your CI/CD process.
 
