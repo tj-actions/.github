@@ -11,5 +11,5 @@ No worries we are here to help, provide any feedback or suggestions by creating 
 Here are some useful links to get you started:
 
 * [Github Marketplace projects](https://github.com/marketplace?category=&query=tj-actions+sort%3Apopularity-desc&type=&verification=)
-* [Code of Conduct](../CODEOFCONDUCT.md)
+* [Code of Conduct](https://github.com/tj-actions/.github/blob/main/CODEOFCONDUCT.md)
 
