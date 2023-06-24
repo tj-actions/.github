@@ -2,7 +2,7 @@
 
 Streamline your CI/CD process with **tj-actions** – the easy-to-use set of GitHub actions that fills the gaps and provides missing features.
 
-Our mission is to help you succeed, so if you're having trouble getting things hooked up, don't sweat it – we're here to help! Provide feedback or suggestions by creating an issue in the repository you're having trouble with, or send an email to [support@tj-actions.online](mailto:support@tj-actions.online).
+Our mission is to help you succeed, so if you're having trouble getting things hooked up, don't sweat it – we're here to help! You can provide your feedback or suggestions by creating an issue in the repository you're having trouble with, or sending an email to [support@tj-actions.online](mailto:support@tj-actions.online).
 
 Get started today with these useful links:
 
