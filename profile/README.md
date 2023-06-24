@@ -1,15 +1,12 @@
-## Hi there 👋
+## Welcome to tj-actions! 👋
 
-Welcome to **tj-actions**, where we provide an easy to use set of github-actions.
+Streamline your CI/CD process with **tj-actions** – the easy-to-use set of GitHub actions that fills the gaps and provides missing features.
 
-Our mission is to fill the gap by providing missing features that improve your CI/CD process.
+Our mission is to help you succeed, so if you're having trouble getting things hooked up, don't sweat it – we're here to help! Provide feedback or suggestions by creating an issue in the repository you're having trouble with, or send an email to [support@tj-actions.online](mailto:support@tj-actions.online).
 
-Having trouble getting things hooked up? 
+Get started today with these useful links:
 
-No worries we are here to help, you can provide any feedback or suggestions by creating an issue in the repository you are having trouble with or send an email to: [support@tj-actions.online](mailto:support@tj-actions.online).
+- [GitHub Marketplace projects](https://github.com/marketplace?category=&query=tj-actions+sort%3Apopularity-desc&type=&verification=)
+- [Code of Conduct](https://github.com/tj-actions/.github/blob/main/CODEOFCONDUCT.md)
 
-Here are some useful links to get you started:
-
-* [Github Marketplace projects](https://github.com/marketplace?category=&query=tj-actions+sort%3Apopularity-desc&type=&verification=)
-* [Code of Conduct](https://github.com/tj-actions/.github/blob/main/CODEOFCONDUCT.md)
-
+Make your CI/CD process a breeze with tj-actions – try it out now! 🚀
