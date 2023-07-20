@@ -1,6 +1,6 @@
 ## Welcome to tj-actions! 👋
 
-Streamline your CI/CD process with **tj-actions** – the easy-to-use set of GitHub actions that fills the gaps and provides missing features.
+Looking to simplify your CI/CD process? Look no further than tj-actions! Our user-friendly set of GitHub actions is designed to bridge gaps and provide essential features, so you can focus on what matters most.
 
 Our mission is to help you succeed, so if you're having trouble getting things hooked up, don't sweat it – we're here to help! You can provide your feedback or suggestions by creating an issue in the repository you're having trouble with, or sending an email to [support@tj-actions.online](mailto:support@tj-actions.online).
 
