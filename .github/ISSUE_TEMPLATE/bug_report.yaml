@@ -49,12 +49,12 @@ body:
       multiple: true
       options:
         - all
-        - ubuntu-latest or ubuntu-20.04
-        - ubuntu-18.04
-        - macos-latest or macos-10.15
+        - ubuntu-latest or ubuntu-22.04
+        - ubuntu-20.04
+        - macos-latest or macos-12
         - macos-11
-        - windows-latest or windows-2019
-        - windows-2016
+        - windows-latest or windows-2022
+        - windows-2019
     validations:
       required: true
   - type: textarea
