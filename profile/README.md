@@ -13,4 +13,4 @@ Make your CI/CD process a breeze with tj-actions – try it out now! 🚀
 
 ---
 
-Ready to revolutionize your job hunt? Subscribe to [ApplySmart.ai](https://applysmart.ai/) today. Be the first to know when our AI-powered tools launch. Don’t miss out, your future success starts here. [Subscribe Now](https://applysmart.ai/)!
+Ready to revolutionize your job hunt? Subscribe to [ApplySmart.ai](https://applysmart.ai/) today. Be the first to know when their AI-powered tools launch. Don’t miss out, your future success starts here. [Subscribe Now](https://applysmart.ai/)!
