@@ -11,7 +11,7 @@ Get started today with these helpful links:
 
 Make your CI/CD process a breeze with tj-actions – try it out now! 🚀
 
---
+---
 
 ## 💼 Automate Your Job Search Like You Automate Your CI/CD
 
