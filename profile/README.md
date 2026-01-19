@@ -10,3 +10,23 @@ Get started today with these helpful links:
 - [Code of Conduct](https://github.com/tj-actions/.github/blob/main/CODEOFCONDUCT.md)
 
 Make your CI/CD process a breeze with tj-actions – try it out now! 🚀
+
+--
+
+## 💼 Automate Your Job Search Like You Automate Your CI/CD
+
+As developers who build automation tools, we know manual work is inefficient.
+
+**ApplySmart AI** brings that same philosophy to your job search:
+
+- 🤖 **AI-Powered Generation** - Tailored resumes & cover letters in seconds
+- ⚡ **One-Click Extraction** - Extract job details from any posting
+- 🎯 **ATS-Optimized** - Beat the bots that filter 75% of applications
+- 📊 **Application Tracking** - Manage your pipeline like you manage deployments
+
+**Perfect for developers who:**
+- Automate their CI/CD workflows
+- Value efficiency over manual work
+- Want to apply to more jobs in less time
+
+👉 **[Start Free → applysmart.ai](https://applysmart.ai)**
